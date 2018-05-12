@@ -1,0 +1,36 @@
+_repo: The-Burning-Secret_45755
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45755-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zweig, Stefan
+    alias: Branch, Stephen
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '26291'
+    url: http://www.gutenberg.org/2009/agents/26291
+    wikipedia: http://en.wikipedia.org/wiki/Stefan_Zweig
+description: BURNING SECRET is set in an Austrian sanatorium in the 1920's. A lonely
+  twelve-year-old boy is befriended and becomes infatuated by a suave and mysterious
+  baron who heartlessly brushes him aside to turn his seductive attentions to the
+  boy's mother. Stefan Zweig, the author of Beware of Pity and Confusion provides
+  the reader, in this newly available translation, with a study of childhood on the
+  brink of adolescence and a boy's uncontrollable jealousy and feelings of betrayal.
+gutenberg_issued: '2014-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanatoriums -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Jealousy -- Fiction'
+- !lcsh 'Austria -- Fiction'
+- !lcsh 'Psychological fiction'
+title: The Burning Secret
+url: http://www.gutenberg.org/ebooks/45755
